@@ -74,7 +74,6 @@ body {
 
 .nav li {
   display: inline-block;
-
 }
 
 .nav a {
@@ -82,7 +81,6 @@ body {
   text-decoration: none;
   margin: 20px;
   cursor: pointer;
-
 }
 
 .nav a:hover {
@@ -96,7 +94,6 @@ body {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-
 }
 
 
@@ -107,7 +104,6 @@ body {
   margin-bottom: 5px;
   overflow: hidden;
   display: inline-block;
-
 }
 
 .containerleft ul {
@@ -121,7 +117,6 @@ body {
   padding-bottom: 5000px;*/
   background-color: lightcyan;
   border-radius: 2px;
-
 }
 
 .containerleft li {
@@ -222,7 +217,6 @@ body {
   margin: auto;
   font-family: inherit;
   border-radius: 3px;
-
 }
 
 .navfooter li {
